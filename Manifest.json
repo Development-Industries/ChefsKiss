@@ -1,0 +1,26 @@
+{
+  
+    "manifest_version": 3,
+    "name": "Personal Chef Scheduler",
+    "version": "1.0",
+    "description": "Book appointments with your personal chef and view menu packages.",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "foodie.html",
+      "default_icon": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+      }
+    },
+    "icons": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+ 
+
+
+}
